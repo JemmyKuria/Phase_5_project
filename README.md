@@ -8,17 +8,22 @@ This project, focuses on predicting vaccination uptake for H1N1 and seasonal flu
 
 Vaccination is a critical public health strategy for preventing infectious diseases like H1N1 and seasonal influenza. However, vaccine hesitancy and low uptake rates can undermine herd immunity, leading to outbreaks. Public health organizations need tools to identify individuals unlikely to get vaccinated to deliver targeted outreach, education, and resources. This project leverages machine learning to predict vaccination status, prioritizing high recall for unvaccinated individuals to ensure effective intervention strategies, ultimately reducing disease spread and improving community health outcomes.
 
-# PROBLEM STATEMENT
+This project aims to build a predictive model that identifies individuals who are likely to receive the H1N1 and seasonal flu vaccines. With accurate predictions, health agencies can implement targeted interventions and awareness campaigns to increase vaccine uptake, especially among hesitant or high-risk populations.
 
+# PROBLEM STATEMENT
+The spread of infectious diseases like H1N1 can be mitigated through timely vaccination. However, not everyone receives vaccinations due to factors such as misinformation, access issues, and personal beliefs. This project leverages machine learning to predict vaccine uptake based on behavioral, demographic, and opinion-based data. The insights derived from this model can assist public health officials in designing focused campaigns that maximize vaccination rates.
 
 # OBJECTIVES
 
 1. To provide actionable insights to public health organizations to inform strategies for increasing vaccine uptake and reducing disease spread.
+
 2. To identify vulnerable groups (e.g., uninsured, low-income, low-health-literacy) that may need additional support or information to access vaccines.
 
 3. To help public health organizations craft more personalized, effective education campaigns to combat vaccine hesitancy and misinformation.
 
 4. To analyze individual behaviors, health beliefs, and demographic factors to determine how they influence vaccine decision-making in real populations.
+
+5. Interpret classification results and provide recommendations for public health interventions.
 
 # DATA UNDERSTANDING
 
